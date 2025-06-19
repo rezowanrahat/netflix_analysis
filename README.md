@@ -80,4 +80,4 @@ This project is under the MIT License. Dataset is publicly available via Kaggle.
 
 **Rezowan Khan**  
 - GitHub: [@rezowanrahat](https://github.com/rezowanrahat )
-- LinkedIn: [linkedin.com/in/rezowan-khan/] (https://www.linkedin.com/in/rezowan-khan/)
+- LinkedIn: [linkedin.com/in/rezowan-khan/](https://www.linkedin.com/in/rezowan-khan/)
