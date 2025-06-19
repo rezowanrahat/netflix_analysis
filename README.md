@@ -80,4 +80,4 @@ This project is under the MIT License. Dataset is publicly available via Kaggle.
 
 **Your Name**  
 - GitHub: https://github.com/rezowanrahat 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [https://www.linkedin.com/in/rezowan-khan/]
