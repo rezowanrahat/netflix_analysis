@@ -79,5 +79,5 @@ This project is under the MIT License. Dataset is publicly available via Kaggle.
 ## 🙋‍♂️ Author
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
+- GitHub: https://github.com/rezowanrahat 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
