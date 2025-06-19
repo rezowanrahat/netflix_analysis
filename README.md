@@ -82,3 +82,9 @@ This project is under the MIT License. Dataset is publicly available via Kaggle.
 - GitHub: [@rezowanrahat](https://github.com/rezowanrahat )
 - LinkedIn: [Rezowan Khan](https://www.linkedin.com/in/rezowan-khan/)
 
+---
+
+## 🏷️ Tags
+
+`Python` • `Pandas` • `Netflix` • `Beginner Project` • `Data Analysis` • `Seaborn` • `EDA`
+
